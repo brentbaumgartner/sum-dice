@@ -9,7 +9,7 @@ Discord dice bot written in Python that shows individual rolls and the sum.
 - WSGI server like Gunicorn or uWSGI
 - reverse proxy like nginx
 
-## Adjust sum-dice.py:
+## Edit sum-dice.py:
 - search and replace `serveridhere` with your server ID
 - search and replace `secrettokenhere` with your secret token (2 entries)
 
