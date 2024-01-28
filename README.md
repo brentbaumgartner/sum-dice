@@ -5,7 +5,7 @@ Discord dice bot written in Python that shows individual rolls and the sum.
 - `pip install discord.py`
 - `pip install Flask`
 
-## Also requires:
+## Self hosting requires:
 - WSGI server like Gunicorn or uWSGI
 - reverse proxy like nginx
 
