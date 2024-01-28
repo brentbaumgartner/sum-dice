@@ -10,5 +10,5 @@
 - reverse proxy like nginx
 
 ## Adjust sum-dice.py:
-- `YOUR_SERVER_ID = serveridhere` Replace with your server ID
-- `('secrettokenhere')` Replace with your secret token
+- `YOUR_SERVER_ID = serveridhere` Replace serveridhere with your server ID
+- `('secrettokenhere')` Replace secrettokenhere with your secret token
