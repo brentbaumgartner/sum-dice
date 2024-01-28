@@ -14,5 +14,5 @@ Discord dice bot written in Python that shows individual rolls and the sum.
 - search and replace `secrettokenhere` with your secret token (2 entries)
 
 ## Channel commands:
-- `!roll` Roll one die
+- `!roll` Roll die
 - `!roll 6` Roll [1-6] dice
