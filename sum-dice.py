@@ -37,7 +37,7 @@ async def roll(ctx, num_dice: int = 1):
     else:
         rolls_string = ", ".join(str(result) for result in results)
         total_sum = sum(results)
-        response_message = f'🎲 Rolls: {rolls_string} / Sum = {total_sum}'
+        response_message = f'🎲 Rolls: {rolls_string} = {total_sum}'
     
     await ctx.send(response_message)
 
