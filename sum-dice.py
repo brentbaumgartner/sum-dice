@@ -1,4 +1,4 @@
-# sum-dice (Discord Bot) by Brent Alan
+# sum-dice (Discord Bot) by Brent Baumgartner
 
 import discord
 from discord.ext import commands
